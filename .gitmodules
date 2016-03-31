@@ -1,0 +1,6 @@
+[submodule "pelican-twitchy"]
+	path = pelican-twitchy
+	url = git@github.com:ingwinlu/pelican-twitchy.git
+[submodule "themes/pelican-twitchy"]
+	path = themes/pelican-twitchy
+	url = git@github.com:ingwinlu/pelican-twitchy.git
